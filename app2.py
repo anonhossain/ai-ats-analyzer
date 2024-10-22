@@ -3,7 +3,7 @@ import PyPDF2 as pdf
 import google.generativeai as genai
 
 # Set your Google API key environment variable
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyDNMyGAUfhGqmxGflbbQeKHzSlHsPMyYHs'
+os.environ['GOOGLE_API_KEY'] = 'api Key'
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Function to configure Generative AI with API key
