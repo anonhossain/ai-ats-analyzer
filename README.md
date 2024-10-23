@@ -1,1 +1,1 @@
-# ai-ats-analyzer
+# AI ATS Analyzer
